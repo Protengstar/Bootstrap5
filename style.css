@@ -1,0 +1,16 @@
+body {
+  height: 2500px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #aff9f9;
+}
+#about {
+  background-color: #ffffff;
+}
+#projects {
+  background-color: #aff9f9;
+}
+#contact {
+  background-color: #ffffff;
+}
